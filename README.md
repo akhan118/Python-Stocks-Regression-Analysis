@@ -5,10 +5,10 @@
 Usage Example :
 
 
-Forcasting stock price one day in the future.
+Forcasting stock price one day in the future .
 
 
-Prediction_date can be more then one day in the future ....
+Prediction_date can be more then one day in the future 😥🤯....
 
 
 it uses time series data manipulation and sklearn lineaer model 
