@@ -1,4 +1,4 @@
-# Stocks-Regression-Analysis
+#  Time Series Stocks-Regression-Analysis
 
 
 
@@ -11,6 +11,11 @@ Forcasting stock price one day in the future.
 Prediction_date can be more then one day in the future ....
 
 
+it uses time series data manipulation and sklearn lineaer model 
+
+
+
+I'll write about it more in the future .
    
     
     RegressionAnalysis import RegressionAnalysis
