@@ -1,11 +1,7 @@
 #  Time Series Stocks-Regression-Analysis
 
 
-
-Usage Example :
-
-
-Forcasting stock price one day in the future .
+Forcast stock price one day in the future .
 
 
 Prediction_date can be more then one day in the future 😥🤯....
@@ -18,7 +14,8 @@ it uses time series data manipulation and sklearn lineaer model
 Let me know if you have questions and I'll write about it more in the future.
 
 
-   
+   Usage Example :
+
     
     RegressionAnalysis import RegressionAnalysis
 
