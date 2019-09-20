@@ -5,6 +5,11 @@
 Usage Example :
 
 
+Forcasting stock price one day in the future.
+
+
+Prediction_date can be more then one day in the future ....
+
 
    
     
