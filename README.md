@@ -11,8 +11,7 @@ it uses time series data manipulation and sklearn lineaer model
 
 
 
-Let me know if you have questions and I'll write about it more in the future.
-
+Let me know if you have questions .
 
    Usage Example :
 
